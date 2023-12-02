@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: rgba(5, 11, 120, 0.992)
+}
+nav a {
+    text-decoration: none;
+    border: gray 2px solid;
+    border-radius: 35px;
+    margin: 50px;
+    padding: 10px;
+    background-color: cyan;
+    color: rgba(5, 11, 120, 0.992)
+}
+header {
+    background-color: hsl(0, 100%, 85%) ;
+}
+main b {
+    color:rgba(10, 15, 125, 0.999) ;
+}
